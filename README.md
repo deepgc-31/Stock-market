@@ -1,1 +1,2 @@
-# Stock-market
+# Stock-market Analysis using Python
+Dissertation topic for my PGDM course
